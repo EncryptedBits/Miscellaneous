@@ -1,0 +1,2 @@
+SNR value of input image= 2.52026
+SNR value of output image= 2.52508
